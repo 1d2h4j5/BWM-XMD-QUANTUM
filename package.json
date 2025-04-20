@@ -1,5 +1,5 @@
 {
-  "name": "Bwmxmd",
+  "name": "Sunwukong xmd",
   "version": "2.0.0",
   "description": "",
   "main": "index.js",
@@ -18,9 +18,9 @@
     "bmwxmd",
     "quantum",
     "whatsapp-bot",
-    "Ibrahim-Adams"
+    "GIFT THE DEV"
   ],
-  "author": "Ibrahim Adams",
+  "author": "GIFT THE DEV",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
